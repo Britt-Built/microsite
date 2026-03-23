@@ -35,3 +35,4 @@ jobs:
         with:
           source-dir: ./_site
           preview-branch: gh-pages
+          pages-base-url: https://brittbuilt.com/
